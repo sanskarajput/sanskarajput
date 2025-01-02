@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 I’m **Sanskar Rajput**, a passionate **Developer** and **Learner** currently pursuing a **Bachelor of Science** in **Data Science & Application Development** from **IIT Madras**.
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanskarajput&label=Visitors%20Count&color=blueviolet&style=flat" alt="sanskarajput" /> </p>
+
+
 <!--
 ### 🚀 **Currently working on**:
 -->
