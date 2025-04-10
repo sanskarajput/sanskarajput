@@ -38,7 +38,13 @@ I’m **Sanskar Rajput**, a passionate **Developer** and **Learner** currently p
 - **Deploying scalable AI solutions**
 
 ### 💬 **Ask me about**:
-  [![My Skills](https://skillicons.dev/icons?i=python,java,bash,html,css,js,flask,vue)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,java,bash)](https://skillicons.dev)
+  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+  
+  [![My Skills](https://skillicons.dev/icons?i=flask,django,spring)](https://skillicons.dev)
+  
+  [![My Skills](https://skillicons.dev/icons?i=react,vue,next)](https://skillicons.dev)
 
   [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgresql)](https://skillicons.dev)
   <p>
