@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=fa7df5&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There+!+👋;+I'm+Sanskar+Rajput+👨🏻‍💻;" />
+</h1>
 
 <!--
 **sanskarajput/sanskarajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m **Sanskar Rajput**, a passionate **Developer** and **Learner** currently pursuing a **Bachelor of Science** in **Data Science & Application Development** from **IIT Madras**.
+A passionate **Software Developer** and **Learner** currently pursuing a **Bachelor of Science** in **Data Science & Application Development** from **IIT Madras**.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanskarajput&label=Visitors%20Count&color=blueviolet&style=flat" alt="sanskarajput" /> </p>
 
